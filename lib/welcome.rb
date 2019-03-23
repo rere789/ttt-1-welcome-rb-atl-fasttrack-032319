@@ -3,7 +3,7 @@
 # ruby lib/welcome.rb from your terminal.
 
 def greet
-  put "Welcome to Tic Tac Toe!"
+  puts "Welcome to Tic Tac Toe!"
 end
 
 greet()
