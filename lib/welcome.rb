@@ -5,3 +5,5 @@
 def greet
   put "Welcome to Tic Tac Toe!"
 end
+
+greet
